@@ -1,0 +1,8 @@
+{
+  "experiment": "se_resnet34",
+  "best_val_acc": 0.9480392156862745,
+  "test_acc": 0.9090909090909091,
+  "num_epochs": 20,
+  "head_lr": 0.001,
+  "finetune_lr": 5e-05
+}

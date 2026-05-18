@@ -1,0 +1,14 @@
+{
+  "random_init": {
+    "val_acc": 0.0627,
+    "test_acc": 0.0629
+  },
+  "pretrained": {
+    "val_acc": 0.9431,
+    "test_acc": 0.9208
+  },
+  "se_pretrained": {
+    "val_acc": 0.948,
+    "test_acc": 0.9091
+  }
+}
