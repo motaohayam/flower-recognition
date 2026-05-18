@@ -1,0 +1,11 @@
+{
+  "pretrained": {
+    "best_val_acc": 0.9431372549019608,
+    "test_acc": 0.9208001301024556
+  },
+  "random_init": {
+    "best_val_acc": 0.0627,
+    "test_acc": 0.0629
+  },
+  "test_acc_improvement": 0.8579
+}

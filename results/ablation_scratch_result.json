@@ -1,0 +1,8 @@
+{
+  "experiment": "ablation_scratch",
+  "pretrained": false,
+  "best_val_acc": 0.0627,
+  "test_acc": 0.0629,
+  "num_epochs": 20,
+  "lr": 0.001
+}
