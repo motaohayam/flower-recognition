@@ -1,0 +1,8 @@
+{
+  "experiment": "sweep_hlr001_flr0001_ep15",
+  "best_val_acc": 0.9323529411764706,
+  "test_acc": 0.8954301512441047,
+  "num_epochs": 15,
+  "head_lr": 0.001,
+  "finetune_lr": 0.0001
+}

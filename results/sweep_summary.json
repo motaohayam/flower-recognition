@@ -1,0 +1,50 @@
+[
+  {
+    "experiment": "sweep_hlr001_flr0001_ep15",
+    "head_lr": 0.001,
+    "finetune_lr": 0.0001,
+    "num_epochs": 15,
+    "val_acc": 0.9324,
+    "test_acc": 0.8954
+  },
+  {
+    "experiment": "sweep_hlr001_flr0001_ep25",
+    "head_lr": 0.001,
+    "finetune_lr": 0.0001,
+    "num_epochs": 25,
+    "val_acc": 0.9265,
+    "test_acc": 0.9042
+  },
+  {
+    "experiment": "sweep_hlr001_flr5en05_ep20",
+    "head_lr": 0.001,
+    "finetune_lr": 5e-05,
+    "num_epochs": 20,
+    "val_acc": 0.9431,
+    "test_acc": 0.9208
+  },
+  {
+    "experiment": "sweep_hlr0005_flr0001_ep20",
+    "head_lr": 0.0005,
+    "finetune_lr": 0.0001,
+    "num_epochs": 20,
+    "val_acc": 0.9333,
+    "test_acc": 0.8938
+  },
+  {
+    "experiment": "sweep_hlr001_flr0002_ep20",
+    "head_lr": 0.001,
+    "finetune_lr": 0.0002,
+    "num_epochs": 20,
+    "val_acc": 0.898,
+    "test_acc": 0.8569
+  },
+  {
+    "experiment": "sweep_hlr002_flr0001_ep20",
+    "head_lr": 0.002,
+    "finetune_lr": 0.0001,
+    "num_epochs": 20,
+    "val_acc": 0.9069,
+    "test_acc": 0.8772
+  }
+]
