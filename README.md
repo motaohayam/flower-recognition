@@ -22,13 +22,13 @@ flower-recognition/
 
 ## Experiments
 
-1. **Baseline** — ResNet-34 pretrained on ImageNet, head replaced for 102 classes,
+1. **Baseline**: ResNet-34 pretrained on ImageNet, head replaced for 102 classes,
    two-phase training (freeze then fine-tune).
-2. **Hyperparameter sweep** — Grid search over learning rates and epochs.
+2. **Hyperparameter sweep**: Grid search over learning rates and epochs.
    Best config: head_lr=1e-3, finetune_lr=5e-5, 20 epochs.
-3. **Ablation study** — Same architecture trained from random initialization.
+3. **Ablation study**: Same architecture trained from random initialization.
    Pretraining provides +85.79% absolute improvement in test accuracy.
-4. **Attention model** — SE blocks inserted after each ResNet-34 residual stage.
+4. **Attention model**: SE blocks inserted after each ResNet-34 residual stage.
    Achieves highest validation accuracy (94.80%).
 
 ## Dataset
