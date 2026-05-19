@@ -2,11 +2,7 @@
 
 ## 1. Introduction
 
-This report presents a study and an analysis of CNN fine-tuning for the purpose of
-flower classification from the Oxford 102 Category Flower Dataset.
-The impact and effect of ImageNet pretraining on the dataset was examined, 
-perform hyperparameter analysis, conduct an ablation study, and extend the baseline model 
-using attention mechanisms.
+This report presents a study and an analysis of CNN fine-tuning for the purpose of flower classification from the Oxford 102 Category Flower Dataset, using Kaggle as the development environment. The impact and effect of ImageNet pretraining on the dataset was examined, perform hyperparameter analysis, conduct an ablation study, and extend the baseline model using attention mechanisms.
 
 ---
 
