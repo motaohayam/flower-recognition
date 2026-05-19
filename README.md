@@ -13,12 +13,14 @@ analysis, ablation study, and attention mechanisms.
 | ResNet-34 + SE blocks            | 94.80%  | 90.91%   |
 
 ## Repository Structure
+```text
 flower-recognition/
-├── flower_recognition_main.ipynb  # Main notebook with all experiments
-├── report.md                      # Full experiment report
-├── logs/                          # Per-epoch training logs (CSV)
-├── results/                       # Experiment result summaries (JSON)
-└── figures/                       # Training curves and comparison charts
+├── flower_recognition_main.ipynb # Main notebook with all experiments
+├── report.md # Full experiment report
+├── logs/ # Per-epoch training logs (CSV)
+├── results/ # Experiment result summaries (JSON)
+└── figures/ # Training curves and comparison charts
+```
 
 ## Experiments
 
